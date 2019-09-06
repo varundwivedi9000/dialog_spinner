@@ -1,6 +1,6 @@
 name: dialog_spinner
 description: A Flutter package to make dialog mode of spinner in android available in flutter
-version: 0.0.1
+version: 0.1.0
 author: Varun Dwivedi <eagleranger96@gmail.com>
 homepage: https://github.com/eagleranger96/dialog_spinner
 
