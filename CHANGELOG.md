@@ -9,3 +9,7 @@
 ## [0.1.1]
 
 * Added example in recomended format
+
+## [0.1.2]
+
+* Updated README.md and example/README.md
