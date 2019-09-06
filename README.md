@@ -4,7 +4,7 @@ A Flutter package to make dialog mode of spinner in android available in flutter
 
 ## Installing
 
-* To use this package, add ```dialog_spinner``` as a [dependency in your pubspec.yaml file] (https://flutter.dev/docs/development/packages-and-plugins/using-packages)
+* To use this package, add ```dialog_spinner``` as a [dependency in your pubspec.yaml file](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 
 ## Example
 
