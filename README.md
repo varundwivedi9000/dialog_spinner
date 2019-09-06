@@ -9,7 +9,7 @@ A Flutter package to make dialog mode of spinner in android available in flutter
 ## Example
 
     import 'package:flutter/material.dart';
-    import './dialog_spinner.dart';
+    import 'package:dialog_spinner/dialog_spinner.dart';
 
     void main() => runApp(MaterialApp(home: MyApp()));
 

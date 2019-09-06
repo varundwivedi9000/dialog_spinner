@@ -1,4 +1,4 @@
-package com.example.dialog_spinner_example;
+package com.example.example;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:dialog_spinner/dialog_spinner.dart';
 
 void main() => runApp(MaterialApp(
